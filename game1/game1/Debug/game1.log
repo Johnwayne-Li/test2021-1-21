@@ -1,0 +1,7 @@
+﻿  test.c
+f:\vs2015code\game1\game1\test.c(23): error C2198: “IsWin”: 用于调用的参数太少
+f:\vs2015code\game1\game1\test.c(32): error C2198: “IsWin”: 用于调用的参数太少
+  game1.c
+f:\vs2015code\game1\game1\game1.c(102): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+f:\vs2015code\game1\game1\game1.c(103): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  正在生成代码...
